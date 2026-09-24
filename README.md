@@ -1,4 +1,4 @@
-# LinuxAssignment
+# Linux Assignment
 
 This is my submission for the Linux Deep Dive DevOps Practical Lab. The assignment walks through building a small fake service on a real server: give it an identity, give it storage, break it on purpose to see how it fails, lock down access to it, teach it to watch itself, and then tear the whole thing down without leaving anything behind.
 
